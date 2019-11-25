@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bottom_sheet_corner_radius">10dp</dimen>
+    <dimen name="bottom_sheet_top_padding">5dp</dimen>
+    <dimen name="inner_circle_radius">14dp</dimen>
+    <dimen name="inner_circle_stroke_width">2dp</dimen>
+    <dimen name="outer_ring_stroke_radius">24dp</dimen>
+    <dimen name="outer_ring_stroke_width">4dp</dimen>
+    <dimen name="ripple_size_offset">24dp</dimen>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "741543776268",
+    "firebase_url": "https://visualx0.firebaseio.com",
+    "project_id": "visualx0",
+    "storage_bucket": "visualx0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741543776268:android:d9c8a2a88d4a2283",
+        "android_client_info": {
+          "package_name": "com.io.org.visualx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741543776268-61n7u42sg9l8ko5l8rui1cge2tqiteea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.io.org.visualx",
+            "certificate_hash": "79be86ab58a62c62633870f10dd7a572dc101b18"
+          }
+        },
+        {
+          "client_id": "741543776268-psncumgld5ipe90kmqcatjafiaiilt17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmvmKW-mfLTnrUNUaY0JXmIUx8pDR-O8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741543776268-psncumgld5ipe90kmqcatjafiaiilt17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
